@@ -1,5 +1,5 @@
 ### <h1>Hi there 👋</h1>
-<hr>
+<br />
 🔭 I’m currently working on:
 <br />
 MERN Stack

@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1>Hi there 👋</h1>
 <hr>
 🔭 I’m currently working on:
 MERN Stack

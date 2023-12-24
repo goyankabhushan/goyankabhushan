@@ -3,17 +3,25 @@
 🔭 I’m currently working on:
 MERN Stack
 
+🌱 I’m currently learning:
+NodeJS and MongoDB
+
+💬 Ask me about:
+Oops, DSA, React, HTML, CSS, SQL and any general software development questions.
+  
+📫 How to reach me:
+📧 goyankabhushan@gmail.com
+🔗www.linkedin.com/in/bhushan-goyanka-7b03a821b
+
+⚡ Fun fact:
+I love My Work
+
+
 <!--
 **goyankabhushan/goyankabhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->

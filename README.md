@@ -1,19 +1,20 @@
 ### <h1>Hi there 👋</h1>
 <hr>
 🔭 I’m currently working on:
+<br />
 MERN Stack
-
-🌱 I’m currently learning:
+<br />
+🌱 I’m currently learning:<br />
 NodeJS and MongoDB
 
-💬 Ask me about:
+💬 Ask me about:<br />
 Oops, DSA, React, HTML, CSS, SQL and any general software development questions.
-  
-📫 How to reach me:
-📧 goyankabhushan@gmail.com
+  <br />
+📫 How to reach me:<br />
+📧 goyankabhushan@gmail.com<br />
 🔗www.linkedin.com/in/bhushan-goyanka-7b03a821b
-
-⚡ Fun fact:
+<br />
+⚡ Fun fact:<br />
 I love My Work
 
 

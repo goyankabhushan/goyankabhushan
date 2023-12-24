@@ -14,8 +14,8 @@ Oops, DSA, React, HTML, CSS, SQL and any general software development questions.
   <br />
   <br />
 📫 How to reach me:<br />
-📧 goyankabhushan@gmail.com
-🔗 <a href="mailto:email@goyankabhushan@gmail.com? subject=subject text"> Email </a>
+
+📧 <a href="mailto:email@goyankabhushan@gmail.com? subject=subject text"> Email </a>
 <br />
 🔗 <a href="https://www.linkedin.com/in/bhushan-goyanka-7b03a821b/"> Linkedin </a>
 <br />

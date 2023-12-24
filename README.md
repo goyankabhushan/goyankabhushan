@@ -21,6 +21,9 @@ Oops, DSA, React, HTML, CSS, SQL and any general software development questions.
 ⚡ Fun fact:<br />
 I love My Work
 
+<hr>
+<h1>🌐Socials:</h1>
+
 
 <!--
 **goyankabhushan/goyankabhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,7 +15,7 @@ Oops, DSA, React, HTML, CSS, SQL and any general software development questions.
   <br />
 📫 How to reach me:<br />
 📧 goyankabhushan@gmail.com<br />
-🔗www.linkedin.com/in/bhushan-goyanka-7b03a821b
+🔗 <a href="https://www.linkedin.com/in/bhushan-goyanka-7b03a821b/"> Linkedin </a>
 <br />
 <br />
 ⚡ Fun fact:<br />

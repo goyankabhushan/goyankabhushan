@@ -23,9 +23,6 @@ I love My Work
 
 <hr>
 <h2>🌐Socials:</h2>
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]

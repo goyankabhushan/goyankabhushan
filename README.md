@@ -24,7 +24,9 @@ Oops, DSA, React, HTML, CSS, SQL and any general software development questions.
 ⚡ Fun fact:<br />
 I love My Work
 
-<hr>
+<hr>![Uploading 68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e6.gif…]()
+
+
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
